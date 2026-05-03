@@ -1,5 +1,5 @@
 class Item:
-    def ukuran():
-        print("awokawok")
+    print("item")
+
 class Inventory:
     pass
