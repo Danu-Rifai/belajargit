@@ -1,1 +1,5 @@
-print("Hello World!")
+class Item:
+    pass
+
+class Inventory:
+    pass
