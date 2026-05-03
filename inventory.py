@@ -2,4 +2,4 @@ class Item:
     print("item")
 
 class Inventory:
-    pass
+    print ("inventory")
