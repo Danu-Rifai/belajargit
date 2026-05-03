@@ -3,3 +3,4 @@ class Item:
         print("awokawok")
 class Inventory:
     pass
+    pass
