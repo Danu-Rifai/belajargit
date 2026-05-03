@@ -1,5 +1,7 @@
 class Item:
-    print("item")
+    def __init__(self, nama, stok):
+        self.nama = nama
+        self.stok = stok
 
 class Inventory:
     pass
